@@ -1,0 +1,19 @@
+{
+  "name": "onsite-zakat_calculator",
+  "version": "1.0.1",
+  "description": "",
+  "main": "zakat.js",
+  "type": "module",
+  "bin":"zakat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hassan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
